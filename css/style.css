@@ -57,6 +57,7 @@
   left: 20%;
   color: darkgray;
   font-weight: lighter;
+  padding-top: 3%;
 }
 .news {
   padding-left: 380px;
@@ -132,18 +133,20 @@
   color: rgb(83, 78, 78);
   font-size: 20px;
   margin-bottom: 40px;
-  padding-left: 180px;
+  padding-left: 10%;
 }
 .text-5 {
   color: rgb(83, 78, 78);
   font-size: 20px;
-  padding-left: 180px;
+  padding-left: 10%;
 }
 .about-img {
-  width: 300px;
-  padding-left: 200px;
-  padding-bottom: 50px;
-  padding-top: 30px;
+  width: 35%;
+  padding-right: 2%;
+  padding-bottom: 5%;
+  padding-top: 2%;
+
+  margin-left: 25%;
 }
 .service-text-1 {
   padding-top: 40px;
@@ -210,11 +213,9 @@
   text-align: center;
 }
 .text3-4 {
-  font-size: 16px;
+  font-size: 14px;
   color: rgb(236, 219, 219);
-  line-height: 25px;
-  text-align: center;
-  padding-top: 30px;
+  line-height: 20px;
 }
 .blog-text {
   height: 100px;
@@ -283,18 +284,18 @@
   color: rgb(131, 125, 125);
 }
 .tag {
-  font-size: 14px;
+  font-size: 2%;
   text-align: right;
   display: flex;
   justify-content: space-around;
 }
 .card-date {
   padding-right: 10px;
-  font-size: 12px;
+  font-size: 10px;
   color: rgb(165, 135, 135);
 }
 .card-tag {
-  font-size: 12px;
+  font-size: 10px;
   color: rgb(165, 135, 135);
 }
 .bot {
@@ -361,22 +362,27 @@ td {
   display: flex;
   position: relative;
 }
+.picture-1 {
+  width: 50%;
+}
+.picture-2 {
+  width: 50%;
+}
 .text-s {
   position: absolute;
   color: aliceblue;
-  font-size: 50px;
-  top: 90px;
-  left: 250px;
-
+  font-size: 300%;
+  top: 20%;
+  left: 20%;
   font-weight: bold;
 }
 .text-ss {
   position: absolute;
   color: aliceblue;
-  font-size: 50px;
+  font-size: 300%;
   font-weight: bold;
-  top: 90px;
-  left: 880px;
+  top: 20%;
+  left: 60%;
 }
 .text-o {
   margin-top: 80px;
